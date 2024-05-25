@@ -1,47 +1,44 @@
 ### Hi there 👋
 
-I'm Eduardo Ferré, a student of Computer Science at the Faculty of Astronomy, Physics, Mathematics, and Computer Science of the National University of Córdoba, Argentina.
+I'm **Eduardo Ferré**, a student of Computer Science at the Faculty of Astronomy, Physics, Mathematics, and Computer Science of the National University of Córdoba, Argentina.
+
+---
 
 #### About Me
-I'm currently immersed in the world of programming and mathematics. I'm passionate about exploring new concepts and challenges in these fields. In addition to my university studies, I'm expanding my knowledge in data analysis through a course at CoderHouse. I'm excited about the prospect of delving into the field of data science in the future.
+- 🌱 Currently immersing myself in programming and mathematics.
+- 📚 Expanding knowledge in data analysis through a course at CoderHouse.
+- 🎯 Excited about delving into data science in the future.
+
+---
 
 #### Programming Languages 💻
-I am proficient in the following programming languages:
-- Java ☕
-- C 🖥️
-- Haskell λ
-- Python 🐍
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 #### Other Skills 🛠️
-In addition to programming, I also have experience with:
-- SQL 🗃️
-- Excel 📊
-- Tableau 📊
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%2300f.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+
+---
+
+#### GitHub Stats 📊
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardoferre18&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferre18&layout=compact&theme=radical)
+
+---
 
 #### Contact 📬
-If you want to get in touch, you can do so via:
-- Email: [ferreduardo18@gmail.com](mailto:ferreduardo18@gmail.com) 📧
-- LinkedIn: [Eduardo Ferré](https://www.linkedin.com/in/eduardo-ferré-7bb1a3304/) 🔗
-- Instagram: [@edu.ferre](https://instagram.com/edu.ferre) 📷
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferreduardo18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ferré-7bb1a3304/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edu.ferre)
+
+---
 
 Thanks for visiting my profile! 👍
-
-
-
-
-
-
-<!--
-**EduardoFerre18/EduardoFerre18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

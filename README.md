@@ -6,7 +6,7 @@ I'm **Eduardo Ferré**, a student of Computer Science at the Faculty of Astronom
 
 #### About Me
 - 🌱 Currently immersing myself in programming and mathematics.
-- 📚 Expanding knowledge in data analysis through a course at CoderHouse.
+- 📊 Certified in data analysis from CoderHouse.
 - 🎯 Excited about delving into data science in the future.
 
 ---
